@@ -2,8 +2,11 @@
 use seq2seq to generate chord from melody
 
 step:
+
 1.open seq2seq
+
 2.change filepath in prepare_data.py and then run it
+
 3.run transformer.py
 
 
